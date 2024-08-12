@@ -1,2 +1,2 @@
-streamlit==0.61.0
+streamlit==1.37.0
 cadCAD==0.3.1
